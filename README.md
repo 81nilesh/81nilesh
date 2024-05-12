@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/81nilesh" target="blank"><img src="https://img.shields.io/twitter/follow/81nilesh?logo=twitter&style=for-the-badge" alt="81nilesh" /></a> </p>
 
