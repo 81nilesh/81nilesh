@@ -1,7 +1,8 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMiZwyHt24y5Px26_tGE_KPLTX8qiNFo-KLegS6iB97jWWYxsJRQ_-sJzf5J7SfJSIPfk&usqp=CAU)](https://my-nilesh-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Nilesh Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <a href="https://twitter.com/81nilesh" target="blank"><img src="https://img.shields.io/twitter/follow/81nilesh?logo=twitter&style=for-the-badge" alt="81nilesh" /></a> </p>
 
