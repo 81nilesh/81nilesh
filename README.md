@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilesh Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="81nilesh" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> </p>
 
 <p align="left"> <a href="https://twitter.com/81nilesh" target="blank"><img src="https://img.shields.io/twitter/follow/81nilesh?logo=twitter&style=for-the-badge" alt="81nilesh" /></a> </p>
 
-- 🔭 I’m currently working on **Artisent**
+- 🔭 I’m currently working on **Articent**
 
 - 🌱 I’m currently learning **Next JS, React Native**
 
